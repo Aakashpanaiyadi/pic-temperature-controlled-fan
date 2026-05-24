@@ -6,11 +6,19 @@ The temperature is measured using an LM35 sensor and displayed on a 16x2 LCD.
 Fan speed is automatically adjusted using PWM through an L293D motor driver.
 
 Features
-Temperature monitoring using ADC
-Automatic fan speed control
-PWM motor control
-LCD temperature display
-Low, Medium, and High speed modes
+
+-Temperature monitoring using ADC
+
+-Automatic fan speed control
+
+-PWM motor control
+
+-LCD temperature display
+
+=Low, Medium, and High speed modes
+
 Tools Used
-MPLAB / XC8
-Proteus Simulation
+
+-MPLAB HI TECH complier
+
+-Proteus Simulation
