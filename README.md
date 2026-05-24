@@ -15,7 +15,7 @@ Features
 
 -LCD temperature display
 
-=Low, Medium, and High speed modes
+-Low, Medium, and High speed modes
 
 Tools Used
 
