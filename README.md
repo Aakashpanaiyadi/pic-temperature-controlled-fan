@@ -22,3 +22,6 @@ Tools Used
 -MPLAB HI TECH complier
 
 -Proteus Simulation
+
+Simulation Output
+<img width="1280" height="811" alt="Screenshot 2026-05-24 080725" src="https://github.com/user-attachments/assets/5835c266-b2bd-4750-a565-9389656e591d" />
