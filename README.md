@@ -1,5 +1,5 @@
 
-# PIC Temperature Controlled Fan
+# PWM-Based Fan Speed Control using PIC, LM35 & L293D
 
 This project uses a PIC16F877A microcontroller to control fan speed based on temperature.
 The temperature is measured using an LM35 sensor and displayed on a 16x2 LCD.
